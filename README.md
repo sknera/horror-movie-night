@@ -8,6 +8,6 @@ Dodatkowo, przy lekkiej pomocy TvTropes stworzyłem katalog z kategoriami tych f
 Ostatecznie, każda komórka oznacza, czy motyw występuje, czy nie, przykładowo:
 Title	action	spooks	real_monsters	hurt_children	hurt_animals	blood	badass	romance	funny	artism	parody	body	horror	inversion	atmospheric	paranormal	monsters	zombie
 
-| Title            | action | real_monsters | hurt_children | hurt_animals | blood |	badass |	romance |	funny |	artism |	parody |	body |	horror	| inversion	|atmospheric |	paranormal |	monsters	| zombie
-| Willy Wonderland |    1   |    0          |     0         |      0       |  0     |    1    |    1    |  1     |  0    |    1    |   0    |   0        | 0           |0 |        0   |     1        |    0   |
-
+| Title            | action | real_monsters | hurt_children | hurt_animals | blood | badass | romance | funny | artism | parody | body | horror | inversion | atmospheric | paranormal | monsters | zombie |
+|------------------|--------|---------------|---------------|--------------|-------|--------|---------|-------|--------|--------|------|--------|-----------|-------------|------------|----------|--------|
+| willy wonderland | 1      | 0             | 0             | 0            | 0     | 1      | 1       | 1     | 0      | 1      | 0    | 0      | 0         | 0           | 1          | 0        | 0      |
